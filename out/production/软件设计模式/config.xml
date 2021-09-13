@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cofig>
+    <beanName>FunnyFactory</beanName>
+    <beanName>MovieFactory</beanName>
+    <beanName>TeachFactory</beanName>
+</cofig>
